@@ -1,2 +1,2 @@
 ﻿# arrora-tube
-Arrora TV channel application 
+Arrora TV channel application with youtube functionality 
